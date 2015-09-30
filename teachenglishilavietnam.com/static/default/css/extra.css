@@ -1,0 +1,145 @@
+.input-invalid{border: 1px solid #f00 !important;}
+#ui-datepicker-div{min-width:215px;}
+.errors ul{width: 100%;background: #FFEAEA;border: 1px solid #f00;padding: 8px 25px;color: #f00;margin-bottom: 21px;}
+#education-table td{position:relative;}
+#education-table a.remove{font-size:0;position:absolute;background:url(../images/icon-remove.png) no-repeat center center;width:14px;height:14px;display:none;top:16px;right:5px;}
+#education-table tr:hover a.remove{display:block;}
+
+/* task 3 */
+.item-check .check-box input[type="radio"]{ display: none; margin: 10px;}
+.item-check .checkbutton-label { font-size:12px!important; line-height:24px;}
+.item-check .check-box input[type=radio] + label:before {  background: url('../images/vlad3.png') 2px 4px no-repeat;}  
+.item-check .check-box input[type=radio]:checked + label:before {   background: url('../images/vlad3.png') 2px -18px no-repeat;}
+
+/** apply now 90% **/
+.table-sign td label{float:left;}
+.table-sign td input{float:right;width:70%;margin-right:35px;color:#f00}
+
+/** About us **/
+#Facilities_Gallery .bx-wrapper .bx-pager, #gallery-img1 .bx-wrapper .bx-controls-auto {
+    right: 0;
+    top: 0;
+    width: auto;
+}
+.sub_right{left: auto!important; right:100%!important}
+.block-living {margin-top:0px}
+.title-blue h1{font-size: 24px}
+
+/** teaching jobs **/
+.table-upload-file .list-upload{list-style:none;}
+.table-upload-file .list-upload li{margin-top:5px;color:#008BFF;min-height:20px;}
+.table-upload-file .list-upload li.up-fail{color:#f00}
+.table-upload-file .list-upload li img{height:60px;}
+.table-upload-file .list-upload li .remove{font-size:0;width:16px;height:16px;display:none;background:url(../images/icon-remove.png) no-repeat center;line-height:22px;margin-left:5px;}
+.table-upload-file .list-upload li:hover .remove{display:inline-block}
+
+/** Menu **/
+.text-header span {
+    background: url("../images/line-top.png") no-repeat scroll left center rgba(0, 0, 0, 0);
+    margin-left: 2px;
+    padding-left: 9px;
+	color: #ffffff;
+    font-family: "gillsansregular";
+    font-size: 18px;
+}
+.title-h3 {font-size: 20px}
+.span_charity {color: #3d86cb;font-weight: bold;}
+.form-profile label{margin-top:3px;}
+
+.main_slider .tparrows.default{width:48px;height:48px;display:block !important;}
+.main_slider .tp-leftarrow.default{background:url(../images/arrows.png) no-repeat left top;left:30px !important;}
+.main_slider .tp-rightarrow.default{background:url(../images/arrows.png) no-repeat right top;right:30px !important;}
+.main_slider .tp-leftarrow.default:hover{background:url(../images/arrows.png) no-repeat left bottom;}
+.main_slider .tp-rightarrow.default:hover{background:url(../images/arrows.png) no-repeat right bottom;}
+.tp-bullets.simplebullets.round .bullet{
+	background: url("../../../../amazingslider.com/wp-content/uploads/amazingslider/10/sliderengine/skins/bullet-16-16-1.png") no-repeat scroll left top rgba(0, 0, 0, 0);
+    cursor: pointer;
+    float: left;
+    height: 16px;
+    margin-right: 8px;
+    position: relative;
+    width: 16px;
+}
+.tp-bullets.simplebullets.round .bullet:hover, .tp-bullets.simplebullets.round .bullet.selected, .tp-bullets.simplebullets.navbar .bullet:hover, .tp-bullets.simplebullets.navbar .bullet.selected{
+	background:url("../../../../amazingslider.com/wp-content/uploads/amazingslider/10/sliderengine/skins/bullet-16-16-1.png") no-repeat scroll left bottom rgba(0, 0, 0, 0);
+}
+.tp-bullets{margin-left:-25px !important;}
+
+.ic-googleplus {
+    background: url("../images/ic-googleplus.png") no-repeat scroll center center rgba(0, 0, 0, 0);
+}
+.ic-googleplus:hover {
+    background: url("../images/ic-googleplus-hover.png") no-repeat scroll center center rgba(0, 0, 0, 0);
+}
+
+.ih-contact {
+    background: url("../images/contact-icon.png") no-repeat scroll center center rgba(0, 0, 0, 0);
+}
+.wp_main_menu li a:hover .ih-contact, .wp_main_menu li a.current .ih-contact {
+    background: url("../images/contact-icon-hover.png") no-repeat scroll center center rgba(0, 0, 0, 0);
+}
+
+/** teaching job **/
+.table-upload-file .list-upload.typeimg li {width:105px;float:left;}
+.table-upload-file .list-upload.typeimg li img {width:80px;height:auto;}
+.table-upload-file .ajaxloader{text-align:center;display:none;}
+@media (max-width: 480px){
+.main_slider .tp-rightarrow.default,.main_slider .tp-leftarrow.default{ display:none!important;}
+}
+.txt-caption p{font-size:17px!important;text-transform:inherit;padding: 0 5px;opacity: 0.8!important}
+
+/*captcha*/
+#imgRefreshCaptcha {
+position: absolute;
+margin-left: 160px;
+margin-top: 25px;
+cursor:pointer
+}
+.stories-first .des-article {min-height:0; text-align:left}
+.title-testimonials a {text-transform:capitalize}
+
+/** YL Extension **/
+ul.support-document{list-style:none;}
+ul.support-document li{margin-bottom:5px;}
+ul.support-document li:after{content:'';display:block;clear:both;}
+ul.support-document li .check-box{float:left;}
+ul.support-document li p{float:left;line-height:22px;}
+ul.support-document li .check-box .checkbutton-label{margin-right:0;padding-left:20px;margin-bottom:0px;}
+.mutile-div .item-text.bulet-row span{color:#073099;font-family:"gillsansregular";font-weight:bold;}
+.mutile-div .item-text.bulet-row input{width:83%;width:calc(100% - 18px);margin-left:5px;}
+.please-note{border:1px solid #5598ed;padding:10px 15px;background:#e3efff;text-align:justify;margin-bottom:35px;-webkit-border-radius:4px;-moz-border-radius:4px;border-radius:4px;line-height:22px;}
+.yl-upload {background:url("../images/icon-yl-upload.png") no-repeat left top;cursor:pointer;height:15px;min-width:23px;margin:0 0 0 12px;padding-left:28px;}
+.yl-upload input, .yl-change input {left: -9999px;position: absolute;}
+.yl-change {background: url("../images/icon-yl-change.png") no-repeat left top;cursor: pointer;min-height: 20px;min-width:23px;padding-left:23px;margin:0 0 0 12px;}
+
+.ic-form div {
+	display:block;
+	float:none;
+  background: url(../images/ic-text-form.png) no-repeat left 6px;
+  padding-left: 15px;
+  margin-bottom: 5px;
+  color: #333333;
+	min-height:25px;
+}
+.ic-form div > span, .ic-form div form{float:left;}
+.ic-form div:after{content:'';display:block;clear:both;}
+.delta-module{padding:5px;background: #325bbd;color: #fff;border: none;margin-bottom:5px;border-bottom:solid 2px; margin-right:5px}
+
+.cl-red{ color:red;}
+.content-module{ padding-left:10px;}
+.fz-big tr td:last-child {font-size:12px}
+label.radiobutton-label{font-size:12px!important}
+.txt-person{font-weight:bold;text-align: right;font-size: 13px!important}
+li.text_ft, .text_ft{margin-left: 5px}
+.info-footer:last-child{margin-left:0px!important}
+.txt-person .name-teacher a{font-size: 13px!important}
+.captcha.job-at-ila #valueCaptcha{width: 180px; margin-top:10px;}
+a.btn-seemore{
+	background-color: #0b0b61;
+    border-radius: 4px;
+    color: #fff;
+    cursor: pointer;
+    font-weight: bold;
+    padding: 5px 8px;
+}
+p.errors{display: none; color: #f00;font-weight: normal;font-size: 12px;}
