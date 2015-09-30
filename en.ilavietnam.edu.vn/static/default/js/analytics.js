@@ -1,1 +1,0 @@
-var curSearch=window.location.search.substring(1);if(curSearch!='' || document.referrer != ''){$.post('/gaq',curSearch+'&referrer='+encodeURIComponent(document.referrer));}
