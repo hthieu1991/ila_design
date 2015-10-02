@@ -91,7 +91,7 @@ body{ font-family:Tahoma, Geneva, sans-serif; font-size:12px; color:#494949}
 .ih-Testimonials{ background:url(../images/ih-7.png) no-repeat center center}
 .wp_main_menu li a:hover .ih-Testimonials,.wp_main_menu li a.current .ih-Testimonials{ background:url(../images/ih-7-hover.png) no-repeat center center}
 
-.wp_main_menu li a:hover,.wp_main_menu li a.current{background:#f53d54; color:#fff;}
+.wp_main_menu li a:hover,.wp_main_menu li a.current{background:#F17C09; color:#fff;}
 .wp_main_menu li a:hover:after,.wp_main_menu li a.current:after, .wp_main_menu li:hover a:after{ background:url(../images/bg-menu-a.png) no-repeat; width:11px; height:6px; content:" "; position:absolute;bottom: -5px; left: 50%; margin-left: -6px;}
 .wp_main_menu li:hover li a:after{ display:none}
 .wp_main_menu > li:before{content:"";position:absolute;top:0;left:0;right:auto;width:2px;height:100%;}
@@ -99,10 +99,10 @@ body{ font-family:Tahoma, Geneva, sans-serif; font-size:12px; color:#494949}
 /* SUB MENU */
 .wp_main_menu  li{position:relative}
 .wp_main_menu  li ul{position:absolute;top:100%;left:4px;z-index:9999;min-width:230px;margin-top:0px; padding-top:5px;}
-.wp_main_menu  li:hover a{background:#f53d54 ; color:#fff;}
-.wp_main_menu  li ul li{text-align:left;padding:0 0px;line-height:0px; list-style:none;transition: all 0.5s ease 0s;-moz-transition: all 0.5s ease 0s;-webkit-transition: all 0.5s ease 0s;background:#e74c3c;}
-.wp_main_menu  li ul li:hover{ background:#c0392b; border-radius:0;}
-.wp_main_menu  li ul li a:hover{color:#ffae00!important}
+.wp_main_menu  li:hover a{background:#F17C09; color:#fff;}
+.wp_main_menu  li ul li{text-align:left;padding:0 0px;line-height:0px; list-style:none;transition: all 0.5s ease 0s;-moz-transition: all 0.5s ease 0s;-webkit-transition: all 0.5s ease 0s;background:#FC9836;}
+.wp_main_menu  li ul li:hover{ background:#F17C09; border-radius:0;}
+.wp_main_menu  li ul li a:hover{color:#FCB826!important}
 li.sub_child:before{ content:" "; position:absolute; background:url(../images/ic-arrow-menu.png) no-repeat; width:7px; height:11px; right:9px; top:50%; margin-top:-5px;}
 .right-menu li.sub_child:before{ background:url(../images/ic-arrow-menu--right.png) no-repeat; left:9px;}
 .right-menu li a{ padding-left:28px!important;}
@@ -167,7 +167,7 @@ li.sub_child:before{ content:" "; position:absolute; background:url(../images/ic
 .ic-3{ background:url(../images/ic-3.png) no-repeat center center}
 .ic-4{ background:url(../images/ic-4.png) no-repeat center center}
 .ic-5{ background:url(../images/ic-5.png) no-repeat center center}
-.counter h4{ font-size:30px;font-family: 'SFUGillSansBold'; color:#ee3a43; margin-top:8px; margin-bottom:5px; }
+.counter h4{ font-size:30px;font-family: 'SFUGillSansBold'; color:#fcb826; margin-top:8px; margin-bottom:5px; }
 .counter p{ font-size:15px;font-family: 'gillsansregular';}
 .counter{ margin-top:50px; }
 .block-home{ background:url(../images/line-bg.jpg) no-repeat left bottom #fff; padding-bottom:42sssspx; background-size:100%; padding-bottom:40px;}
@@ -183,12 +183,12 @@ li.sub_child:before{ content:" "; position:absolute; background:url(../images/ic
 .txt-person{ font-family:Tahoma, Geneva, sans-serif; font-size:14px; margin-top:10px;}
 .txt-person p{ text-transform:uppercase; color:#939393; margin-top:5px; margin-bottom:5px; background:url(../images/bg-line.png) repeat-x left center}
 .txt-person p span{ background:#fff; padding-right:12px;}
-.txt-person .name-teacher a{ font-size:14px; color:#ee3a43}
-.item:hover .img-avarta,.item:hover .img-avarta img{ border-radius:50%; border-color:#ee3a43;}
+.txt-person .name-teacher a{ font-size:14px; color:#fcb826}
+.item:hover .img-avarta,.item:hover .img-avarta img{ border-radius:50%; border-color:#fcb826;}
 .item:hover  .txt-person h2 a{ color:red}
 .fixed {background-color: #000 !important;position: fixed!important; top:0px; transition-duration: 1s; width: 100%; z-index: 999;}
 .fixed .wp_main_menu li a{ color:#fff}
-.title-cate a{ display:inline-block; color:#ffffff; background:#ee3a43; padding:2px 13px 1px; font-size:24px;font-family: 'gillsansregular';transition: all 0.5s ease 0s;-moz-transition: all 0.5s ease 0s;-webkit-transition: all 0.5s ease 0s; border-radius:5px;}
+.title-cate a{ display:inline-block; color:#ffffff; background:#fcb826; padding:2px 13px 1px; font-size:24px;font-family: 'gillsansregular';transition: all 0.5s ease 0s;-moz-transition: all 0.5s ease 0s;-webkit-transition: all 0.5s ease 0s; border-radius:5px;}
 .bg-job{ background:url(../images/bg-job.jpg) no-repeat 15px bottom; min-height:322px; border-left:1px solid #e5e5e5}
 .title-cate a:hover{ background:#00a0d5;}
 .list-job-news{ position:absolute; left:15px; bottom:20px}
@@ -198,7 +198,7 @@ li.sub_child:before{ content:" "; position:absolute; background:url(../images/ic
 .how-learning{ min-height:322px;}
 .how-learning .content{ width:100%; line-height:24px; margin-top:12px}
 .view-more{ background:#0072bc; height:29px; color:#fff; width:125px; height:29px; display:inline-block; text-align:center; border-radius:4px; line-height:28px; margin-top:9px;transition: all 0.5s ease 0s;-moz-transition: all 0.5s ease 0s;-webkit-transition: all 0.5s ease 0s; }
-.view-more:hover{ background:#ee3a43;color:#fff}
+.view-more:hover{ background:#fcb826;color:#fff}
 .no-bakground{ background:none; padding-bottom:0}
 #footer{ background:  url(../images/bg-footer.jpg) no-repeat #0e121d; font-family:Tahoma, Geneva, sans-serif; background-size:100%; margin-top:30px; padding-bottom:30px}
 .img-footer{ padding:7px; float:left; background:#1f2538; margin-right:18px;}
@@ -496,7 +496,7 @@ display:block;border:none;}
 .location-wp{ border:1px solid #e1e1e1; padding:20px 15px ;}
 .pad0{ padding-left:0}
 .title-article{ font-size:18px; font-family: 'gillsansregular'; margin-bottom:28px;}
-.readmored{ background: url(../images/ic-arrows.png) no-repeat 10px center #ee3a43; height:30px; color:#fff; display: inline-block; white-space: nowrap; padding-left:10px; padding-right:9px; line-height:30px; border-radius:4px; margin-top:14px; padding-left:38px;transition: all 0.5s ease 0s;-moz-transition: all 0.5s ease 0s;-webkit-transition: all 0.5s ease 0s}
+.readmored{ background: url(../images/ic-arrows.png) no-repeat 10px center #fcb826; height:30px; color:#fff; display: inline-block; white-space: nowrap; padding-left:10px; padding-right:9px; line-height:30px; border-radius:4px; margin-top:14px; padding-left:38px;transition: all 0.5s ease 0s;-moz-transition: all 0.5s ease 0s;-webkit-transition: all 0.5s ease 0s}
 .readmored:hover{background: url(../images/ic-arrows.png) no-repeat 15px center #1c3f95; color:#fff;padding-left:43px; padding-right:15px;}
 .article-locaiton img{ margin-bottom:25px; max-width:100%; height:auto}
 .article-locaiton{ text-align:justify}
@@ -623,7 +623,7 @@ display:block;border:none;}
 .vt-text{ color:#eb8c27}
 .img-person{ background:#b3d0ed; height:144px; border:1px solid #e7e7e7; position:relative}
 .img-person-wp{ width:116px; height:116px; margin:8px auto; display:block; border:4px solid #6db3f9; border-radius:50%; overflow:hidden;transition: all 0.5s ease 0s;-moz-transition: all 0.5s ease 0s;-webkit-transition: all 0.5s ease 0s}
-.img-person-wp:hover{border:4px solid #f53d54; }
+.img-person-wp:hover{border:4px solid #F17C09; }
 .img-person:after{ content:" "; position:absolute; background:url(../images/ic-bottom.png) no-repeat; width:23px; height:11px; left:50%; bottom:-2px; margin-left:-11px;}
 .list-travel li{ list-style:none}
 .list-travel h2{ font-size:14px; text-transform:uppercase; font-weight:bold; font-family:Tahoma, Geneva, sans-serif; margin-top:25px; margin-bottom:20px;}
@@ -685,7 +685,7 @@ display:block;border:none;}
 .sup-txt .fl{ display:inline-block;}
 .sup-txt .col-sm-8{ width:65%}
 .bnt-see-more{-moz-border-radius: 5px;-webkit-border-radius: 5px;border-radius: 5px; -moz-background-clip: padding;-webkit-background-clip: padding-box;background-clip: padding-box;background-color: #051b4d; color:#fff; width:84px; height:25px; display:block; text-align:center; line-height:25px; margin-top:24px;}
-.bnt-applynow-red{ display:block; width:160px; height:48px;border-radius:5px; color:#fff; font-size:22px; display: block; vertical-align:middle; float:right; margin-left:35px; line-height:45px; background:url(../images/applynow-bnt.png) no-repeat 8px center #f53d54; padding-left:42px;}
+.bnt-applynow-red{ display:block; width:160px; height:48px;border-radius:5px; color:#fff; font-size:22px; display: block; vertical-align:middle; float:right; margin-left:35px; line-height:45px; background:url(../images/applynow-bnt.png) no-repeat 8px center #F17C09; padding-left:42px;}
 .celta-Courses{ margin-bottom:40px;}
 .title-courses{ color:#1c3f95; font-size:24px;margin-bottom:10px; font-family: 'gillsansregular';}
 .wp-candidates{ background:#004a80; padding:0 10px 10px}
@@ -788,7 +788,7 @@ p.text_phone{ color:#7c7979}
 .check-radio .radio-button{ float:left; width:25%}
 .btn-send{ font-weight:bold; font-size:13px;}
  .btn-send:hover{ background:url("../images/ic-send.png") no-repeat scroll 6px center #1C3F95; color:#fff;} 
-.bnt-see-more:hover{ color:#fff; background-color:#f53d54}
+.bnt-see-more:hover{ color:#fff; background-color:#F17C09}
 .bnt-applynow-red:hover{ background-color:#1C3F95; color:#fff;}
 
 /*button-fix*/
